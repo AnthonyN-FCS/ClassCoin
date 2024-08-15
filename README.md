@@ -1,3 +1,4 @@
 # ClassCoin
 
-- [x] Hello wrodl
+> [!NOTE]
+> - [x] 
