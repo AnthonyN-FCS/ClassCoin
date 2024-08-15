@@ -1,1 +1,3 @@
 # ClassCoin
+
+- [x] Hello wrodl
