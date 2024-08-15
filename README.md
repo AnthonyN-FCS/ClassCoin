@@ -1,4 +1,5 @@
 # ClassCoin
 
 > [!NOTE]
-> - [x] 
+> TODO
+- [] IDK 
